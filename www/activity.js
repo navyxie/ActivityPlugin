@@ -6,4 +6,4 @@ var activity = {
         cordova.exec(null, null,"ActivityPlugin","open",[url,flag,title,state,style]);
     }
 }
-module.exports = cordova;
+module.exports = activity;
